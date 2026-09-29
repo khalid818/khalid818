@@ -1,38 +1,18 @@
-# Hi, I'm Khalid Alblowy 👋
-
-### QA Engineer | Information Systems Graduate
-
-I'm an Information Systems graduate with hands-on experience
-in Software Quality Assurance.
-
-### 🧪 QA & Testing
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- API Testing
-- SQL Validation
-- Test Case Design
-- Defect Reporting
-
-### 🛠 Tools
-- Postman
-- SOAP UI
-- Jira
-- Git & GitHub
-- SQL
-
-### 💻 Programming
-- SQL
-- Python
-- JavaScript
-- HTML
-- CSS
-
-### 📌 Featured Projects
-- Portfolio Website
-- Smart Events Management System
-- QA Testing Projects
-
-### 📫 Connect with me
-- LinkedIn
-- Email
+<div align="center">
+<a href="https://github.com/khalid818">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0057B8&center=true&vCenter=true&width=700&lines=Hello%F0%9F%91%8B%2C+I'm+Khalid+Alblowy!;%F0%9F%94%8D+A+Software+Quality+Assurance+Engineer;%F0%9F%A4%9D+Nice+to+meet+you!" alt="Typing SVG" />
+</a>
+</div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Coder" width="400" height="250" />
+</div>
+<br>
+<h2 align="center">🛠️ Languages & Tools</h2>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,cs,js,python,git,github,linux,postman,figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="47" width="47" alt="Canva" />
+<img src="https://cdn.simpleicons.org/tricentis" width="47" height="47" alt="Tricentis Tosca" />
+<img src="https://cdn.simpleicons.org/jira" width="47" height="47" alt="Jira" />
+</p>
+<br>
