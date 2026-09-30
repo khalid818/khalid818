@@ -10,7 +10,7 @@
 <h2 align="center">🧐 More About Me:</h2>
 <ul>
 <li>🎓 I'm a Computer Information Systems graduate.</li>
-<li>👨‍💻 I have hands-on experience in Software Quality Assurance Engineer.</li>
+<li>👨‍💻 I have hands-on experience in Software Quality Assurance.</li>
 <li>🤖 I completed a Robotics Engineering internship.</li>
 <li>📝 I'm currently improving my skills in Test Automation.</li>
 <li>🚀 I'm passionate about software testing, technology, and continuous learning.</li>
